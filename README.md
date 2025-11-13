@@ -7,7 +7,7 @@ Glavna svrha je poboljšanje aktivnog učenja putem Flashcard sistema i AI-gener
 
 ## Ključne Funkcionalnosti
 * **Flashcards sesije:** Praćenje znanja i ponavljanje kartica koje korisnik označi kao "Nisam znao".
-* **Generisanje Kvizova putem AI:** Korištenje Gemini 2.5 Flasha za ekstrakciju teksta iz PDF-a i generiranje visokokvalitetnih, raznolikih pitanja.
+* **Generiranje Kvizova putem AI:** Korištenje Gemini 2.5 Flasha za ekstrakciju teksta iz PDF-a i generiranje visokokvalitetnih, raznolikih pitanja.
 * **Lokalna Baza Podataka:** Bilješke i kartice se spašavaju lokalno u JSON formatu.
 
 ## Korištene Tehnologije
