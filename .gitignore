@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment (ako koristite venv)
+venv/
+.venv/
+
+# Ključni fajlovi koje ne smijemo objaviti
+.env
+data/
+*.json
